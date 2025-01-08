@@ -1,0 +1,6 @@
+import discord
+
+TOKEN=""
+APP_ID=928385150302175322
+
+DEBUG_GUILD = discord.Object(1154471793365618716)
